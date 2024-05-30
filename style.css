@@ -3,6 +3,7 @@
     color: rgb(221, 108, 15);
     background-color: #0000ff50;
     font-size: 64px;
+
 }
 
 body {
@@ -15,5 +16,18 @@ img {
     margin-right: auto;
     height: auto;
     width: 300px;
+
+}
+
+li {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-wrap: stable;
 
 }
