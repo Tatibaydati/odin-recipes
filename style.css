@@ -76,5 +76,6 @@ li {
     width: 900px;
     margin-left: auto;
     margin-right: auto;
-
+    text-align: center;
+    text-shadow: 4px 4px 6px #0000ff50;
 }
